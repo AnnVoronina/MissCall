@@ -24,6 +24,7 @@ public class Main {
        calls.addMissCall("5637833");
        calls.addMissCall("8896745639");
        calls.addMissCall("8896745639");
+       calls.addMissCall("8896745640");
 
        calls.printMissCalls(phoneBook);
     }
